@@ -98,7 +98,7 @@
 <hr>
 
 ### Past Projects
-- [Portfolio](https://github.com/Calcifer077/Portfolio): My personal portfolio site (deployed at https://portfolio-taupe-nu-19.vercel.app/).
+- [Portfolio](https://github.com/Calcifer077/Portfolio) - My personal portfolio site (deployed at https://portfolio-taupe-nu-19.vercel.app/).
 - [The Wild Oasis](https://github.com/Calcifer077/the-wild-oasis) - Hotel Management Web App
 - [Blogger](https://github.com/Calcifer077/blog-application-react) - Full Stack Blog Application
 - [MovieSite](https://github.com/Calcifer077/MovieSite) - Movie Review and Search Platform
