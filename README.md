@@ -63,10 +63,10 @@
     <img src="https://skillicons.dev/icons?i=express" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/mongoose.svg" alt="html5" width="40" height="40"/>
+    <img src="https://tsed.dev/mongoose.png" alt="html5" width="50" height="40"/>
   </a>
   <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
-    <img src="./icons/drizzle.svg" alt="html5" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/108468352?s=280&v=4" alt="html5" width="40" height="40"/>
   </a>
 </p>
 
