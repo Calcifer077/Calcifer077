@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-  🔭 I am currently learning Nextjs
+  🔭 I am currently learning Nextjs and TypeScript.
 </p>
 
 <hr>
