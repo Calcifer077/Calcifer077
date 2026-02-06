@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm a Computer Science Engineering student at Chandigarh University. Passionate about full-stack development, data structures, and algorithms. I've built projects in React, Node.js, and databases like MongoDB and Supabase.</h3>
 
-<p align="center" text-align="center"> <img src="https://komarev.com/ghpvc/?username=Calcifer077&label=Profile%20views&color=0e75b6&style=flat" alt="Calcifer077ProfileViews" /> </p>
+<!-- <p align="center" text-align="center"> <img src="https://komarev.com/ghpvc/?username=Calcifer077&label=Profile%20views&color=0e75b6&style=flat" alt="Calcifer077ProfileViews" /> </p> -->
 
 <hr>
 
