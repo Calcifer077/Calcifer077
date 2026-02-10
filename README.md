@@ -110,5 +110,11 @@
 - [Learning-DS](https://github.com/Calcifer077/Learning-DS): More DS learning resources in Java.
 
 <p align="center">
+  <a href="https://leetcode.com/u/maheshnashier14/" target="_blank">
+    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/maheshnashier14?theme=catppuccinMocha&font=Roboto%20Mono&ext=heatmap&border=0&radius=16&animation=false" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
