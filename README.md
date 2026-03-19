@@ -93,12 +93,13 @@
 <hr>
 
 ### Current Projects
-- [Lively votes](https://github.com/Calcifer077/lively-votes) - A real time voting application
+- [The wild Oasis website](https://github.com/Calcifer077/the-wild-oasis-website-udemy) - Customer facing website for [The Wild Oasis](https://github.com/Calcifer077/the-wild-oasis) made using Next.js
 
 <hr>
 
 ### Past Projects
 - [Portfolio](https://github.com/Calcifer077/Portfolio) - My personal portfolio site (deployed at https://portfolio-taupe-nu-19.vercel.app/)
+- [Lively votes](https://github.com/Calcifer077/lively-votes) - A real time voting application
 - [The Wild Oasis](https://github.com/Calcifer077/the-wild-oasis) - Hotel Management Web App
 - [Blogger](https://github.com/Calcifer077/blog-application-react) - Full Stack Blog Application
 - [MovieSite](https://github.com/Calcifer077/Movie-website) - Movie Review and Search Platform
