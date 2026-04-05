@@ -47,26 +47,32 @@
     <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styled components" width="40" height="40"/>
   </a>
   <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pug" alt="styled components" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=pug" alt="Pugjs" width="40" height="40"/>
   </a>
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
     <img src="https://tanstack.com/.netlify/images?url=%2Fimages%2Flogos%2Flogo-color-100.png&w=200&q=80" alt="Tanstack query" width="40" height="40"/>
+  </a>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" width="40" height="40"/>
   </a>
 </p>
 
 ## 🛠️ Back-End
 <p align="center">
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="html5" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="html5" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=express" alt="Expressjs" width="40" height="40"/>
   </a>
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://tsed.dev/mongoose.png" alt="html5" width="50" height="40"/>
+    <img src="https://tsed.dev/mongoose.png" alt="mongoose" width="50" height="40"/>
   </a>
   <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/108468352?s=280&v=4" alt="html5" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/108468352?s=280&v=4" alt="drizzle" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet" width="40" height="40"/>
   </a>
 </p>
 
@@ -85,9 +91,11 @@
 ## ⚙️ Tools & Platforms
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="html5" width="40" height="40"/></a>
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" alt="html5" width="40" height="40"/></a>
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vs code" width="40" height="40"/></a>
 </p>
 
 <hr>
