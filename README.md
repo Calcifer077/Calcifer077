@@ -1,131 +1,121 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20there!&height=120&section=header&fontSize=40&fontAlignY=65"/>
 </p>
 
-<h1 align="center">Hi, I'm Mahesh</h1>
-
-<h3 align="center">I'm a Computer Science Engineering student at Chandigarh University. Passionate about full-stack development, data structures, and algorithms. I've built projects in React, Node.js, and databases like MongoDB and Supabase.</h3>
-
-<!-- <p align="center" text-align="center"> <img src="https://komarev.com/ghpvc/?username=Calcifer077&label=Profile%20views&color=0e75b6&style=flat" alt="Calcifer077ProfileViews" /> </p> -->
-
-<hr>
+<h1 align="center">I'm Mahesh Nashier 👋</h1>
 
 <p align="center">
-  🔭 I am currently learning Nextjs, TypeScript and dotnet.
+  <em>CS undergrad at Chandigarh University · Full-Stack Developer · DSA Enthusiast</em>
 </p>
 
-<hr>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mahesh-nashier-b05691249/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Calcifer077 Linkedin" height="40" width="40" /></a>
-<a href="https://x.com/nash54644" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Calicifer077 twitter" height="40" width="40" /></a>
+  Building things that work — from database schema to polished UI. I care about clean code, good UX, and shipping projects that actually solve problems.
 </p>
 
-<hr>
-
-<h3 align="center">Languages and Tools:</h3>
-
-## 💻 Front-End
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/mahesh-nashier-b05691249/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" width="36" alt="LinkedIn"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+  &nbsp;
+  <a href="https://x.com/nash54644" target="blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="36" width="36" alt="Twitter/X"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styled components" width="40" height="40"/>
-  </a>
-  <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pug" alt="Pugjs" width="40" height="40"/>
-  </a>
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://tanstack.com/.netlify/images?url=%2Fimages%2Flogos%2Flogo-color-100.png&w=200&q=80" alt="Tanstack query" width="40" height="40"/>
-  </a>
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" width="40" height="40"/>
+  &nbsp;
+  <a href="https://portfolio-taupe-nu-19.vercel.app/" target="blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="36" width="36" alt="Portfolio"/>
   </a>
 </p>
 
-## 🛠️ Back-End
+---
+
+## 🚀 About Me
+
+- 🎓 Pursuing **B.E. in Computer Science** at Chandigarh University
+- 🛠️ I build full-stack web apps with **React, Node.js, Express, MongoDB, and Supabase**
+- 📖 Currently leveling up with **Next.js, TypeScript**, and **.NET**
+- 🔍 Exploring **browser extension development** with Chrome APIs
+- 💡 I enjoy turning real-world problems into clean, working software
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Front-End
 <p align="center">
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="Expressjs" width="40" height="40"/>
-  </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://tsed.dev/mongoose.png" alt="mongoose" width="50" height="40"/>
-  </a>
-  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/108468352?s=280&v=4" alt="drizzle" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" title="Styled Components"/>
+  <img src="https://skillicons.dev/icons?i=pug" height="40" title="Pug"/>
+  <img src="https://tanstack.com/.netlify/images?url=%2Fimages%2Flogos%2Flogo-color-100.png&w=200&q=80" height="40" title="TanStack Query"/>
 </p>
 
-## 🗄️ Databases
+### 🛠️ Back-End
 <p align="center">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="html5" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=supabase" alt="html5" width="40" height="40"/></a>
-
-  <a href="https://learn.microsoft.com/en-us/ssms/install/install" target="_blank">
-  <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?fit=512%2C512&ssl=1" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express.js"/>
+  <img src="https://tsed.dev/mongoose.png" height="40" title="Mongoose"/>
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=280&v=4" height="40" title="Drizzle ORM"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" title=".NET"/>
 </p>
 
-## ⚙️ Tools & Platforms
+### 🗄️ Databases
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
-   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vs code" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" title="Supabase"/>
+  <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?fit=512%2C512&ssl=1" height="40" title="SQL Server / SSMS"/>
 </p>
 
-<hr>
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code"/>
+</p>
 
-### Current Projects
-- Finding something to do with web extensions.
-<hr>
+---
 
-### Past Projects
-- [Portfolio](https://github.com/Calcifer077/Portfolio) - My personal portfolio site (deployed at https://portfolio-taupe-nu-19.vercel.app/)
-- [Lively votes](https://github.com/Calcifer077/lively-votes) - A real time voting application
-- [The Wild Oasis](https://github.com/Calcifer077/the-wild-oasis) - Hotel Management Web App
-- [The Wild Oasis website](https://github.com/Calcifer077/the-wild-oasis-website-udemy) - Customer facing website for [The Wild Oasis](https://github.com/Calcifer077/the-wild-oasis) made using Next.js
-- [Blogger](https://github.com/Calcifer077/blog-application-react) - Full Stack Blog Application
-- [MovieSite](https://github.com/Calcifer077/Movie-website) - Movie Review and Search Platform
-- [Natours](https://github.com/Calcifer077/natours) - Tour booking app 
+## Featured Projects
 
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**The Wild Oasis**](https://github.com/Calcifer077/the-wild-oasis) | Internal hotel management dashboard with bookings, cabin management, and real-time stats | React, Supabase, React Query, Recharts |
+| [**The Wild Oasis Website**](https://github.com/Calcifer077/the-wild-oasis-website-udemy) | Customer-facing booking site paired with the dashboard above | Next.js, Supabase, Tailwind, Stripe |
+| [**Lively Votes**](https://github.com/Calcifer077/lively-votes) | Real-time voting app with live result updates | React, Node.js, WebSockets, Supabase |
+| [**Natours**](https://github.com/Calcifer077/natours) | Full-featured tour booking platform with auth, payments & REST API | Node.js, Express, MongoDB, JWT |
+| [**Blogger**](https://github.com/Calcifer077/blog-application-react) | Full-stack blog app with CRUD, auth, and rich text editing | React, Node.js, MongoDB |
+| [**MovieSite**](https://github.com/Calcifer077/Movie-website) | Movie discovery and review platform using a public API | Express, MongoDBT |
+| [**Portfolio**](https://portfolio-taupe-nu-19.vercel.app/) | My personal portfolio — live and deployed | React, Vercel, Tailwind |
 
-### Other Repos
-- [My-DS-practice](https://github.com/Calcifer077/My-DS-practice): Data Structures practice in Java.
-- [Learning-DS](https://github.com/Calcifer077/Learning-DS): More DS learning resources in Java.
+---
+
+## 🧠 DSA Practice
 
 <p align="center">
   <a href="https://leetcode.com/u/maheshnashier14/" target="_blank">
-    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/maheshnashier14?theme=catppuccinMocha&font=Roboto%20Mono&ext=heatmap&border=0&radius=16&animation=false" />
+    <img src="https://leetcard.jacoblin.cool/maheshnashier14?theme=catppuccinMocha&font=Roboto%20Mono&ext=heatmap&border=0&radius=16&animation=false" alt="LeetCode Stats"/>
   </a>
 </p>
+
+- 📦 [My-DS-practice](https://github.com/Calcifer077/My-DS-practice) — Data structures implementations in Java
+- 📚 [Learning-DS](https://github.com/Calcifer077/Learning-DS) — Notes and problems from my DSA learning journey
+
+<!-- ## 📊 GitHub Stats -->
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Calcifer077&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=16" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calcifer077&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=16" height="165"/>
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Calcifer077&theme=catppuccin-mocha&hide_border=true&border_radius=16" />
+</p> -->
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
