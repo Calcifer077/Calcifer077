@@ -33,7 +33,7 @@
 - 🎓 Pursuing **B.E. in Computer Science** at Chandigarh University
 - 🛠️ I build full-stack web apps with **React, Node.js, Express, MongoDB, and Supabase**
 - 📖 Currently leveling up with **Next.js, TypeScript**, and **.NET**
-- 🔍 Exploring **browser extension development** with Chrome APIs
+- 🔍 Building [**Idea vault**](https://github.com/Calcifer077/idea-vault) to save my ideas at a central place
 - 💡 I enjoy turning real-world problems into clean, working software
 
 ---
