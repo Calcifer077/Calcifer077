@@ -33,7 +33,6 @@
 - 🎓 Pursuing **B.E. in Computer Science** at Chandigarh University
 - 🛠️ I build full-stack web apps with **React, Node.js, Express, MongoDB, and Supabase**
 - 📖 Currently leveling up with **Next.js, TypeScript**, and **.NET**
-- 🔍 Building [**Idea vault**](https://github.com/Calcifer077/idea-vault) to save my ideas at a central place
 - 💡 I enjoy turning real-world problems into clean, working software
 
 ---
@@ -89,6 +88,8 @@
 | [**Natours**](https://github.com/Calcifer077/natours) | Full-featured tour booking platform with auth, payments & REST API | Node.js, Express, MongoDB, JWT |
 | [**Blogger**](https://github.com/Calcifer077/blog-application-react) | Full-stack blog app with CRUD, auth, and rich text editing | React, Node.js, MongoDB |
 | [**MovieSite**](https://github.com/Calcifer077/Movie-website) | Movie discovery and review platform using a public API | Express, MongoDBT |
+| [**Idea Vault**](https://github.com/Calcifer077/idea-vault)  | Stores ideas in Github as Markdown | Nextjs, Typescript, Marked |
+| [**Idea Vault CLI**](https://github.com/Calcifer077/idea-vault-cli) | CLI app for **Idea Vault** | Commander, Inquirer, Marked |
 | [**Portfolio**](https://portfolio-taupe-nu-19.vercel.app/) | My personal portfolio — live and deployed | React, Vercel, Tailwind |
 
 ---
