@@ -32,7 +32,7 @@
 
 - 🎓 Pursuing **B.E. in Computer Science** at Chandigarh University
 - 🛠️ I build full-stack web apps with **React, Node.js, Express, MongoDB, and Supabase**
-- 📖 Currently leveling up with **Next.js, TypeScript**, and **.NET**
+- 📖 Currently exploring AI/ML — working with **NumPy**, and learning backend with **.Net**
 - 💡 I enjoy turning real-world problems into clean, working software
 
 ---
