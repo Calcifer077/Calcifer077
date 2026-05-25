@@ -96,11 +96,11 @@
 
 ## 🧠 DSA Practice
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/u/maheshnashier14/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/maheshnashier14?theme=catppuccinMocha&font=Roboto%20Mono&ext=heatmap&border=0&radius=16&animation=false" alt="LeetCode Stats"/>
   </a>
-</p>
+</p> -->
 
 - 📦 [My-DS-practice](https://github.com/Calcifer077/My-DS-practice) — Data structures implementations in Java
 - 📚 [Learning-DS](https://github.com/Calcifer077/Learning-DS) — Notes and problems from my DSA learning journey
