@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" title="Styled Components"/>
   <img src="https://skillicons.dev/icons?i=pug" height="40" title="Pug"/>
-  <img src="https://tanstack.com/.netlify/images?url=%2Fimages%2Flogos%2Flogo-color-100.png&w=200&q=80" height="40" title="TanStack Query"/>
+  <img src="https://tanstack.com/images/logos/logo-color-600.png" height="40" title="TanStack Query"/>
 </p>
 
 ### 🛠️ Back-End
@@ -66,7 +66,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=supabase" height="40" title="Supabase"/>
-  <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?fit=512%2C512&ssl=1" height="40" title="SQL Server / SSMS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/MSSQL_SSMS_21_icon.png/250px-MSSQL_SSMS_21_icon.png" height="40" title="SQL Server / SSMS"/>
 </p>
 
 ### ⚙️ Tools & Platforms
