@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20there!&height=120&section=header&fontSize=40&fontAlignY=65"/>
 </p>
 
-<h1 align="center">I'm Mahesh Nashier 👋</h1>
+<h1 align="center">I'm Mahesh 👋</h1>
 
 <p align="center">
   <em>CS undergrad at Chandigarh University · Full-Stack Developer · DSA Enthusiast</em>
