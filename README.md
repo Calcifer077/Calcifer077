@@ -30,9 +30,9 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.E. in Computer Science** at Chandigarh University
+- 🎓 Graduated with **B.E. in Computer Science** from Chandigarh University
 - 🛠️ I build full-stack web apps with **React, Node.js, Express, MongoDB, and Supabase**
-- 📖 Currently exploring AI/ML — working with **NumPy**, and learning backend with **.Net**
+- 📖 Currently exploring AI/ML — working with **Pandas**, and learning backend with **.Net**
 - 💡 I enjoy turning real-world problems into clean, working software
 
 ---
