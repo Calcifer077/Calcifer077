@@ -80,41 +80,25 @@
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**The Wild Oasis**](https://github.com/Calcifer077/the-wild-oasis) | Internal hotel management dashboard with bookings, cabin management, and real-time stats | React, Supabase, React Query, Recharts |
-| [**The Wild Oasis Website**](https://github.com/Calcifer077/the-wild-oasis-website-udemy) | Customer-facing booking site paired with the dashboard above | Next.js, Supabase, Tailwind, Stripe |
-| [**Lively Votes**](https://github.com/Calcifer077/lively-votes) | Real-time voting app with live result updates | React, Node.js, WebSockets, Supabase |
-| [**Natours**](https://github.com/Calcifer077/natours) | Full-featured tour booking platform with auth, payments & REST API | Node.js, Express, MongoDB, JWT |
-| [**Blogger**](https://github.com/Calcifer077/blog-application-react) | Full-stack blog app with CRUD, auth, and rich text editing | React, Node.js, MongoDB |
-| [**MovieSite**](https://github.com/Calcifer077/Movie-website) | Movie discovery and review platform using a public API | Express, MongoDBT |
-| [**Idea Vault**](https://github.com/Calcifer077/idea-vault)  | Stores ideas in Github as Markdown | Nextjs, Typescript, Marked |
-| [**Idea Vault CLI**](https://github.com/Calcifer077/idea-vault-cli) | CLI app for **Idea Vault** | Commander, Inquirer, Marked |
-| [**Portfolio**](https://portfolio-taupe-nu-19.vercel.app/) | My personal portfolio — live and deployed | React, Vercel, Tailwind |
+| Project                                                                                   | Description                                                                                                                         | Stack                                              |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [**Lumina Reader**](https://github.com/Calcifer077/lumina-reader)                             | A personal, self-hosted ebook reader. Upload PDF and EPUB files, read them in your browser, and pick up exactly where you left off. | Nextjs, Drizzle, Supabase, React PDF, React Reader |
+| [**The Wild Oasis**](https://github.com/Calcifer077/the-wild-oasis)                       | Internal hotel management dashboard with bookings, cabin management, and real-time stats                                            | React, Supabase, React Query, Recharts             |
+| [**The Wild Oasis Website**](https://github.com/Calcifer077/the-wild-oasis-website-udemy) | Customer-facing booking site paired with the dashboard above                                                                        | Next.js, Supabase, Tailwind, Stripe                |
+| [**Lively Votes**](https://github.com/Calcifer077/lively-votes)                           | Real-time voting app with live result updates                                                                                       | React, Node.js, WebSockets, Supabase               |
+| [**Natours**](https://github.com/Calcifer077/natours)                                     | Full-featured tour booking platform with auth, payments & REST API                                                                  | Node.js, Express, MongoDB, JWT                     |
+| [**Blogger**](https://github.com/Calcifer077/blog-application-react)                      | Full-stack blog app with CRUD, auth, and rich text editing                                                                          | React, Node.js, MongoDB                            |
+| [**MovieSite**](https://github.com/Calcifer077/Movie-website)                             | Movie discovery and review platform using a public API                                                                              | Express, MongoDBT                                  |
+| [**Idea Vault**](https://github.com/Calcifer077/idea-vault)                               | Stores ideas in Github as Markdown                                                                                                  | Nextjs, Typescript, Marked                         |
+| [**Idea Vault CLI**](https://github.com/Calcifer077/idea-vault-cli)                       | CLI app for **Idea Vault**                                                                                                          | Commander, Inquirer, Marked                        |
+| [**Portfolio**](https://portfolio-taupe-nu-19.vercel.app/)                                | My personal portfolio — live and deployed                                                                                           | React, Vercel, Tailwind                            |
 
 ---
 
 ## 🧠 DSA Practice
 
-<!-- <p align="center">
-  <a href="https://leetcode.com/u/maheshnashier14/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/maheshnashier14?theme=catppuccinMocha&font=Roboto%20Mono&ext=heatmap&border=0&radius=16&animation=false" alt="LeetCode Stats"/>
-  </a>
-</p> -->
-
 - 📦 [My-DS-practice](https://github.com/Calcifer077/My-DS-practice) — Data structures implementations in Java
 - 📚 [Learning-DS](https://github.com/Calcifer077/Learning-DS) — Notes and problems from my DSA learning journey
-
-<!-- ## 📊 GitHub Stats -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Calcifer077&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=16" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calcifer077&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=16" height="165"/>
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Calcifer077&theme=catppuccin-mocha&hide_border=true&border_radius=16" />
-</p> -->
 
 ---
 
