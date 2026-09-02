@@ -91,7 +91,7 @@
 | [**MovieSite**](https://github.com/Calcifer077/Movie-website)                             | Movie discovery and review platform using a public API                                                                              | Express, MongoDBT                                  |
 | [**Idea Vault**](https://github.com/Calcifer077/idea-vault)                               | Stores ideas in Github as Markdown                                                                                                  | Nextjs, Typescript, Marked                         |
 | [**Idea Vault CLI**](https://github.com/Calcifer077/idea-vault-cli)                       | CLI app for **Idea Vault**                                                                                                          | Commander, Inquirer, Marked                        |
-| [**Portfolio**](https://portfolio-taupe-nu-19.vercel.app/)                                | My personal portfolio — live and deployed                                                                                           | React, Vercel, Tailwind                            |
+| [**Portfolio**](https://portfolio-taupe-nu-19.vercel.app/)                                | My personal portfolio — live and deployed                                                                                           | Next.js, Vercel, Tailwind                          |
 
 ---
 
